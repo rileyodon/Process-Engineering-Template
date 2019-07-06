@@ -1,5 +1,5 @@
 # Process-Engineering-Template
-This workbook is a collection of some of the stuff I've done over the last couple of years in my degree chemical engineering degree and moments of boredom. Particularly I've tried to include a variety of the Macros I’ve created because from my experience this is something we were not exposed to at university. Please feel free to use this work but do not redistribute (you can share the link to this repository).
+This workbook is a collection of some of the stuff I've done over the last couple of years in my degree chemical engineering degree and moments of boredom. Particularly I've tried to include a variety of the Macros I’ve created because from my experience this is something we were not exposed to at university. Please feel free to use this work but do not redistribute without linking to this repository.
 
 If you have any suggestions or make any of your own improvements to this workbook please share them here. I've given a brief outline of each of the sheets below but if you've had a play with the workbook and want to talk about it further feel free to reach out.
 
