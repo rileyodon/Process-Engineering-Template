@@ -7,10 +7,6 @@ Enjoy,
 
 Riley O'Donnell
 
-email: riley0donnell@outlook.com
-
-phone: 0439 223 555
-
 ## MBEB
 A mass and energy balance is far easier to complete around the streams of a PFD drawing however needs to be presented in a stream table. On a small PFD it is relatively easy to link all the cells up manually however quickly it becomes a tedious task. This sheet uses a macro to automate this process and proved a lifesaver in my design project when I was being given last minute revisions to the PFD.
 Inputs are included on the left with a range and reference. If you’re keen you can create a similar sensitivity analysis to that which is included on the Economics sheet to quantify the impact of uncertainties.
